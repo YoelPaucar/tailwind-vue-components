@@ -1,4 +1,4 @@
-# tailwindcomponents
+# tailwindvuecomponents
 
 ## Project setup
 ```
